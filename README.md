@@ -1,4 +1,8 @@
-## Первый курсовой проект с ипользованием MVVM моделей
+#### Первый курсовой проект с ипользованием MVVM моделей
+
+##Здесь идет User UI
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/f3b2fff3-3c13-4df8-b462-e47f38036238)
 
 ![image](https://github.com/OverCome321/CourseProjects/assets/113111030/10bfddf8-e1ad-4d94-a0a2-6a3db9b3659c)
 
@@ -24,9 +28,27 @@
 
 ![image](https://github.com/OverCome321/CourseProjects/assets/113111030/cc1c5453-0ce4-431f-aab4-0c5a3728d7c5)
 
-## Также в проекте предусмотрена администрирования планировщика задач путем добавления роли Admin
+## Также в проекте предусмотрена администрирования планировщика задач путем добавления роли Admin (Admin UI)
 
 ![image](https://github.com/OverCome321/CourseProjects/assets/113111030/ff0dd243-6166-4d56-a1f8-20ba268186a8)
 
+#### Второй курсовой проект реализовывался на скорую руку без использования MVVM моделей
 
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/e5055fe7-e0bb-4f83-8e80-68989f2d8d75)
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/a7579b3f-f67d-48d3-b1eb-16a6a91221ef)
+
+В самом приложение также продумана возможность администрирования 
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/cc48059d-09b8-4aa9-82b4-2f6030c417cf)
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/1089aeca-09d1-4cb6-9273-47f28eef2937)
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/b8eb42f6-841c-4912-88e1-43cb1b3d2d79)
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/457c5d62-b864-4558-ad36-ff7e11c36837)
+
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/42671747-5f9d-4233-aa54-db2bcbd181ce)
+
+#администратор имеет возможность просматривать чаты с пользователями
 
