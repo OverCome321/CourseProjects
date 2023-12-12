@@ -4,8 +4,7 @@
   - В проекте предусмотрена два UI User и Admin ( В бд есть возможность администрирования Session, то есть возможность просматривать информацию по входам и выходам юзеров)
   - Модель БД
 
-![image](https://github.com/OverCome321/CourseProjects/assets/113111030/4cb6f3d2-5ec5-47df-9fc5-43be223c766d)
-
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/2ac59f0a-129a-4360-8f0c-f45216d21c8c)
 
 
 - SupportService проект включает лишь часть функционала обычной службы поддержки. В приложении есть возможность добавления запроса в службу поддержки, а также полноценный Async чат с обновлением информации в реальном времени, здесь пользователь может как закрыть обращение так и дождаться полноценного ответа
@@ -13,7 +12,7 @@
   - Проект поддерживает 3 UI Admin, User, SupportOperator
   - Модель БД
 
-![image](https://github.com/OverCome321/CourseProjects/assets/113111030/2ac59f0a-129a-4360-8f0c-f45216d21c8c)
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/4cb6f3d2-5ec5-47df-9fc5-43be223c766d)
 
 
 # Первый курсовой проект с ипользованием MVVM моделей
