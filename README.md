@@ -2,8 +2,6 @@
 
 ##Здесь идет User UI
 
-![image](https://github.com/OverCome321/CourseProjects/assets/113111030/f3b2fff3-3c13-4df8-b462-e47f38036238)
-
 ![image](https://github.com/OverCome321/CourseProjects/assets/113111030/10bfddf8-e1ad-4d94-a0a2-6a3db9b3659c)
 
 ![image](https://github.com/OverCome321/CourseProjects/assets/113111030/5c0fc0a7-729a-43ca-abf5-183e7828b9f9)
@@ -52,3 +50,4 @@
 
 #администратор имеет возможность просматривать чаты с пользователями
 
+![image](https://github.com/OverCome321/CourseProjects/assets/113111030/f3b2fff3-3c13-4df8-b462-e47f38036238)
